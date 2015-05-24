@@ -19,6 +19,12 @@
 	{
 		include_once "ban_ca_an_xieng.php";
 //		include_once "onet_3d.php";
-	}	
+	}
+	else if($game =="UNBLOCK_AND_FLOW")//link
+	{
+		include_once "unblockandflow.php";
+
+	}
+	
 
 ?>
