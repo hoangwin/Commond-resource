@@ -16,10 +16,11 @@
 	{
 	//	echo "Ban ca an xu|http://market.android.com/details?id=com.mygame.bancaanxuhd|https://www.dropbox.com/s/wm0qll29wep83mf/BubbleShootFree.png?dl=1|";
 	//	echo "BubbleshotFree|market://details?id=com.bubbleshoot2.free|http://aegamemobile.com/MyAdsImage/BubbleShootFree.png|";
-		//echo "DeathRacing|market://details?id=com.deathracing.crash.pixel|http://aegamemobile.com/MyAdsImage/DeathRacing.png|";
+		
 		//echo "BanCaAnXieng|market://details?id=com.pika.chu.Onet|http://aegamemobile.com/MyAdsImage/Onet3D.png|";
-		echo "UnblockAndFlow|market://details?id=com.unblock.flow.game|http://aegamemobile.com/MyAdsImage/unblockandflow.png|";
-		echo "Tien Len Online|market://details?id=chanphom.bkool.danhbai2015&referrer=cpid=36|http://aegamemobile.com/MyAdsImage/TienLenOnline.png|";
+		//echo "Pikachu Onet 3D|market://details?id=com.pika.chu.Onet|http://aegamemobile.com/MyAdsImage/Onet3D.png|";
+		echo "AirCraftHunter|market://details?id=com.hunter.aircraft|http://aegamemobile.com/MyAdsImage/AicraftHunter.png|";
+		//echo "Tien Len Online|market://details?id=chanphom.bkool.danhbai2015&referrer=cpid=36|http://aegamemobile.com/MyAdsImage/TienLenOnline.png|";
 	//  chua co tren android	echo "Fish Hunter|http://market.android.com/details?id=com.google.earth|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AAAwX6-JpqG7xgKsiRTaiMhya/FishHunter.png?dl=1|";
 	//	echo "Fruit Blitz Free|http://market.android.com/details?id=com.hcg.fruitblitzlite|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AABOM4LJVrxCtDfTizb19Zjwa/FruitBlitzLite.png?dl=1|";
 	//	echo "NinUP|http://market.android.com/details?id=com.xiaxio.ninjaup|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AAAf0ssjC1Su0jPta0Y6zjpRa/NinUp.png?dl=1|";
