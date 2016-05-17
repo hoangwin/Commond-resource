@@ -19,7 +19,9 @@
 		
 		//echo "BanCaAnXieng|market://details?id=com.pika.chu.Onet|http://aegamemobile.com/MyAdsImage/Onet3D.png|";
 		//echo "Pikachu Onet 3D|market://details?id=com.pika.chu.Onet|http://aegamemobile.com/MyAdsImage/Onet3D.png|";
-		echo "AirCraftHunter|market://details?id=com.hunter.aircraft|http://aegamemobile.com/MyAdsImage/AicraftHunter.png|";
+		//echo "AirCraftHunter|market://details?id=com.hunter.aircraft|http://aegamemobile.com/MyAdsImage/AicraftHunter.png|";
+		echo "Runner|market://details?id=com.runners.no.one|http://aegamemobile.com/MyAdsImage/PersonRunner.png|";
+		
 		//echo "Tien Len Online|market://details?id=chanphom.bkool.danhbai2015&referrer=cpid=36|http://aegamemobile.com/MyAdsImage/TienLenOnline.png|";
 	//  chua co tren android	echo "Fish Hunter|http://market.android.com/details?id=com.google.earth|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AAAwX6-JpqG7xgKsiRTaiMhya/FishHunter.png?dl=1|";
 	//	echo "Fruit Blitz Free|http://market.android.com/details?id=com.hcg.fruitblitzlite|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AABOM4LJVrxCtDfTizb19Zjwa/FruitBlitzLite.png?dl=1|";

@@ -25,6 +25,11 @@
 		include_once "unblockandflow.php";
 
 	}
+	else if($game =="CROSSY_REVERSE")//link
+	{
+		include_once "crossy_reverse.php";
+
+	}
 	
 
 ?>
