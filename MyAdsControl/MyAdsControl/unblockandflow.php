@@ -16,8 +16,15 @@
 	{
 	//	echo "Ban ca an xu|http://market.android.com/details?id=com.mygame.bancaanxuhd|https://www.dropbox.com/s/wm0qll29wep83mf/BubbleShootFree.png?dl=1|";
 	//	echo "BubbleshotFree|market://details?id=com.bubbleshoot2.free|http://aegamemobile.com/MyAdsImage/BubbleShootFree.png|";
-		echo "DeathRacing|market://details?id=com.deathracing.crash.pixel|http://aegamemobile.com/MyAdsImage/DeathRacing.png|";
-		echo "Tien Len Online|market://details?id=chanphom.bkool.danhbai2015&referrer=cpid=36|http://aegamemobile.com/MyAdsImage/TienLenOnline.png|";
+		
+		//echo "BanCaAnXieng|market://details?id=com.pika.chu.Onet|http://aegamemobile.com/MyAdsImage/Onet3D.png|";
+		//echo "Pikachu Onet 3D|market://details?id=com.pika.chu.Onet|http://aegamemobile.com/MyAdsImage/Onet3D.png|";
+		//echo "AirCraftHunter|market://details?id=com.hunter.aircraft|http://aegamemobile.com/MyAdsImage/AicraftHunter.png|";
+		echo "Runner|market://details?id=com.runners.no.one|http://aegamemobile.com/MyAdsImage/PersonRunner.png|";
+	//	echo "Bubble Craft|market://details?id=com.lamstudio.bubble.craft|http://aegamemobile.com/MyAdsImage/BubbleShooterCraftStyle.png|";
+	//	echo "Pikachu|market://details?id=com.pikachu.Onet.newversion|http://aegamemobile.com/MyAdsImage/PikachuNew2016.png|";
+		
+		//echo "Tien Len Online|market://details?id=chanphom.bkool.danhbai2015&referrer=cpid=36|http://aegamemobile.com/MyAdsImage/TienLenOnline.png|";
 	//  chua co tren android	echo "Fish Hunter|http://market.android.com/details?id=com.google.earth|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AAAwX6-JpqG7xgKsiRTaiMhya/FishHunter.png?dl=1|";
 	//	echo "Fruit Blitz Free|http://market.android.com/details?id=com.hcg.fruitblitzlite|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AABOM4LJVrxCtDfTizb19Zjwa/FruitBlitzLite.png?dl=1|";
 	//	echo "NinUP|http://market.android.com/details?id=com.xiaxio.ninjaup|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AAAf0ssjC1Su0jPta0Y6zjpRa/NinUp.png?dl=1|";
@@ -25,7 +32,9 @@
 	}
 	else if($platform == "WP8")
 	{	
-		echo "BubbleshotFree|http://www.windowsphone.com/en-us/store/app/bubble-shooter-free/d0a6bf42-23f9-42c8-aafd-c260a9edf072|http://aegamemobile.com/MyAdsImage/BubbleShootFree.png|";
+		//echo "BubbleshotFree|http://www.windowsphone.com/en-us/store/app/bubble-shooter-free/d0a6bf42-23f9-42c8-aafd-c260a9edf072|http://aegamemobile.com/MyAdsImage/BubbleShootFree.png|";
+		echo "UnblockAndFlow|https://www.windowsphone.com/en-us/store/app/unblock-and-flow/4f2c97cf-ea9e-4689-bb14-dffc72a54c95|http://aegamemobile.com/MyAdsImage/unblockandflow.png|";
+		
 		//echo "Ban ca an xu|http://www.windowsphone.com/en-us/store/app/b%E1%BA%AFn-c%C3%A1-%C4%83n-xu-hd/ebeabe5b-0420-415d-be70-80fddac7f327|https://www.dropbox.com/s/wm0qll29wep83mf/BubbleShootFree.png?dl=1|";		
 		echo "Tien Len Online|http://www.windowsphone.com/vi-vn/store/app/%C4%91%C3%A1nh-b%C3%A0i-2014/dc310403-dd14-423f-8f6c-96ce041554fe|http://aegamemobile.com/MyAdsImage/TienLenOnline.png|";
 		//echo "Fish Hunter|http://www.windowsphone.com/en-us/store/app/1st-fish-hunter/ab13d1e8-ca3c-4a3e-9ecf-7a7f2efb0350|https://www.dropbox.com/sh/hl1l4hnka8xu9qg/AAAwX6-JpqG7xgKsiRTaiMhya/FishHunter.png?dl=1|";
